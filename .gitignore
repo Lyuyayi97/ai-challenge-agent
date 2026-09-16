@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+*.pyc
+logs/
+arena_offline/
+*.bin
+*.log
+set_key.ps1
+config.toml
+config.toml.bak
+.codex_backup_*/
+arenaagentpro.egg-info/
+git.gitignore
